@@ -1,0 +1,242 @@
+{
+  "kpis": {
+    "total_units": 100,
+    "total_revenue": 12827800.5,
+    "avg_ticket": 128278.01,
+    "maior_venda": 286500,
+    "km_media": 11422.1,
+    "pct_entregues": 0.41
+  },
+  "by_model": [
+    {
+      "model": "911",
+      "units": 23,
+      "revenue": 4272700,
+      "avg_ticket": 185769.57
+    },
+    {
+      "model": "718",
+      "units": 12,
+      "revenue": 1304950,
+      "avg_ticket": 108745.83
+    },
+    {
+      "model": "Cayenne",
+      "units": 18,
+      "revenue": 2078650,
+      "avg_ticket": 115480.56
+    },
+    {
+      "model": "Macan",
+      "units": 17,
+      "revenue": 1338350,
+      "avg_ticket": 78726.47
+    },
+    {
+      "model": "Panamera",
+      "units": 14,
+      "revenue": 1498450,
+      "avg_ticket": 107032.14
+    },
+    {
+      "model": "Taycan",
+      "units": 16,
+      "revenue": 2334700.5,
+      "avg_ticket": 145918.78
+    }
+  ],
+  "status": [
+    {
+      "status": "Delivered",
+      "count": 41
+    },
+    {
+      "status": "In Transit",
+      "count": 15
+    },
+    {
+      "status": "Pending",
+      "count": 17
+    },
+    {
+      "status": "Cancelled",
+      "count": 7
+    },
+    {
+      "status": "Shipped",
+      "count": 4
+    },
+    {
+      "status": "Awaiting Delivery",
+      "count": 5
+    },
+    {
+      "status": "Awaiting Pickup",
+      "count": 4
+    },
+    {
+      "status": "Pending Approval",
+      "count": 4
+    },
+    {
+      "status": "Pending Review",
+      "count": 2
+    },
+    {
+      "status": "Awaiting Review",
+      "count": 1
+    }
+  ],
+  "payment": [
+    {
+      "method": "Credit Card",
+      "count": 15
+    },
+    {
+      "method": "Wire Transfer",
+      "count": 26
+    },
+    {
+      "method": "Financing",
+      "count": 13
+    },
+    {
+      "method": "Cash",
+      "count": 12
+    },
+    {
+      "method": "Bank Transfer",
+      "count": 10
+    },
+    {
+      "method": "Lease",
+      "count": 10
+    },
+    {
+      "method": "Debit Card",
+      "count": 4
+    },
+    {
+      "method": "ACH Payment",
+      "count": 4
+    },
+    {
+      "method": "Crypto Payment",
+      "count": 6
+    }
+  ],
+  "top_states": [
+    {
+      "state": "TX",
+      "revenue": 2023400.5
+    },
+    {
+      "state": "CA",
+      "revenue": 1973350
+    },
+    {
+      "state": "AZ",
+      "revenue": 695950
+    },
+    {
+      "state": "NV",
+      "revenue": 643400
+    },
+    {
+      "state": "FL",
+      "revenue": 566600
+    },
+    {
+      "state": "OH",
+      "revenue": 523850
+    },
+    {
+      "state": "NC",
+      "revenue": 510100
+    },
+    {
+      "state": "GA",
+      "revenue": 434800
+    },
+    {
+      "state": "LA",
+      "revenue": 361400
+    },
+    {
+      "state": "VA",
+      "revenue": 358700
+    }
+  ],
+  "top_sellers": [
+    {
+      "seller": "Peter Lane",
+      "revenue": 519000
+    },
+    {
+      "seller": "Karen Diaz",
+      "revenue": 494000
+    },
+    {
+      "seller": "Rachel Turner",
+      "revenue": 369800
+    },
+    {
+      "seller": "Steve Ross",
+      "revenue": 361400
+    },
+    {
+      "seller": "Diana Long",
+      "revenue": 351600
+    },
+    {
+      "seller": "Peter Ford",
+      "revenue": 337800
+    },
+    {
+      "seller": "Steve Gray",
+      "revenue": 315250
+    },
+    {
+      "seller": "Megan Reed",
+      "revenue": 307000
+    },
+    {
+      "seller": "Patrick Wood",
+      "revenue": 301700
+    },
+    {
+      "seller": "Henry King",
+      "revenue": 293000
+    }
+  ],
+  "revenue_by_year": [
+    {
+      "year": 2020,
+      "revenue": 377300.0
+    },
+    {
+      "year": 2021,
+      "revenue": 858950.0
+    },
+    {
+      "year": 2022,
+      "revenue": 1517600.0
+    },
+    {
+      "year": 2023,
+      "revenue": 2142350.5
+    },
+    {
+      "year": 2024,
+      "revenue": 4740800.0
+    },
+    {
+      "year": 2025,
+      "revenue": 2525100.0
+    },
+    {
+      "year": 2026,
+      "revenue": 665700.0
+    }
+  ]
+}
